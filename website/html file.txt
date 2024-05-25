@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Counterpoint</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Counterpoint</h1>
+        <p>Counterpoint is the collaborative practice of Samuel Diggins and Tero Parviainen.</p>
+        <p><a href="mailto:info@ctpt.co">info@ctpt.co</a></p>
+        <hr>
+        <div class="works">
+            <h2>Works</h2>
+            <p><strong>Arborhythm, 2024</strong><br>Public art installation blending sounds from San Francisco's local urban and natural environment, with Yuri Suzuki for SFMOMA's <em>Art of Noise</em>.<br>
+                <a href="https://nytimes.com">nytimes.com</a><br>
+                <a href="https://sfmoma.org">sfmoma.org</a></p>
+            <p><strong>Ambient Wall, 2024</strong><br>Generative soundscape installation with interactive call-and-response, with Yuri Suzuki for Google.<br>
+                <a href="https://google.com">google.com</a></p>
+            <p><strong>Sonic Avatars, 2023</strong><br>Algorithmic video interventions for use as improvisational partners in live musical performance, for Liberto Mureddú.<br>
+                <a href="https://uniarts.fi">uniarts.fi</a></p>
+            <p><strong>A Permanent Nostalgia for Departure, 2023</strong><br>Generative music and visuals for an exhibition reflecting on Zaha Hadid's legacy, with Khyam Allami for Cincinnati Contemporary Arts Centre.<br>
+                <a href="https://contemporaryartscenter.org">contemporaryartscenter.org</a></p>
+            <p><strong>Mini Moog Factory, 2023</strong><br>Web experience celebrating synthesiser pioneer Bob Moog's legacy and the return of the Minimoog Model D, with Yuri Suzuki/Pentagram for Moog Music.<br>
+                <a href="https://itsnicethat.com">itsnicethat.com</a><br>
+                <a href="https://minimoogmodeld.com">minimoogmodeld.com</a></p>
+            <p><strong>Passages, 2023</strong><br>Generative music system and website to accompany blockchain artworks, with Justin Boreta and Aaron Penne for Bright Moments.<br>
+                <a href="https://app.brightmoments.io">app.brightmoments.io</a><br>
+                <a href="https://passagescollection.com">passagescollection.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
